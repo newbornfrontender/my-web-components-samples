@@ -25,7 +25,7 @@
 - [Custom Elements](https://w3c.github.io/webcomponents/spec/custom/) (Пользовательские элементы)
 - [ES Modules](https://html.spec.whatwg.org/multipage/webappapis.html#integration-with-the-javascript-module-system) (ES-модули)
 
-Ранее были [HTML Imports](https://www.w3.org/TR/html-imports/) (HTML-импорты), однако вместо них теперь используются ES Modules, по причине отказа поддержки этой технологии в Firefox
+Ранее были [HTML Imports](https://www.w3.org/TR/html-imports/) (HTML-импорты), однако вместо них теперь используются ES Modules, по [причине](https://developer.mozilla.org/ru/docs/Web/Web_Components/HTML_Imports) отказа поддержки этой технологии в Firefox
 
 <h2 align="center">Лицензия</h2>
 
