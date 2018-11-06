@@ -12,6 +12,10 @@
 
 Данный репозиторий создан для понимания принципа работы веб-компонентов и библиотек на их основе. А также для понимания инструментов для создания веб-компонентов, к которым можно отнести: [Stencil](https://github.com/ionic-team/stencil), [Polymer](https://github.com/Polymer/polymer), [Lit-html](https://github.com/Polymer/lit-html), [Hybrids](https://github.com/hybridsjs/hybrids) и т.п.
 
+Этот проект не является гайдом или введением в веб-компоненты и все что с ними связано
+
+Это всего лишь репозиторий с тестовыми примерами и ссылками на статьи, который может быть заброшен в любое время
+
 <h2 align="center">Введение</h2>
 
 > Это краткое введение, более подробное можно посмотреть на [webcomponents.org](https://www.webcomponents.org/introduction) [EN]
