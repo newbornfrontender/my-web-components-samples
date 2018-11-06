@@ -10,7 +10,7 @@
 
 <h2 align="center">Зачем?</h2>
 
-Данный репозиторий создан для понимания принципа работы веб-компонентов, библиотек на их основе и использовании вместе с фреймворками
+Данный репозиторий создан для понимания принципа работы веб-компонентов и библиотек на их основе. А также для понимания инструментов для создания веб-компонентов, к которым можно отнести: [Stencil](https://github.com/ionic-team/stencil), [Polymer](https://github.com/Polymer/polymer), [Lit-html](https://github.com/Polymer/lit-html), [Hybrids](https://github.com/hybridsjs/hybrids) и т.п.
 
 <h2 align="center">Введение</h2>
 
