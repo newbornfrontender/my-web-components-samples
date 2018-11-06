@@ -31,6 +31,14 @@
 
 Ранее были [HTML Imports](https://www.w3.org/TR/html-imports/) (HTML-импорты), однако вместо них теперь используются ES Modules, по [причине](https://developer.mozilla.org/ru/docs/Web/Web_Components/HTML_Imports) отказа поддержки этой технологии в Firefox
 
+<h2 align="center">Статьи</h2>
+
+Статьи вынесены в [отдельный файл](/articles), для улучшения читабельности
+
+<h2 align="center">Инструменты</h2>
+
+...
+
 <h2 align="center">Лицензия</h2>
 
 [MIT](/LICENSE)
