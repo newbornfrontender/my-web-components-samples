@@ -6,7 +6,7 @@
 
 Мои примеры веб-компонентов, созданных для понимания данной технологии
 
-> В примерах используется Yarn, поэтому советую [установить](https://yarnpkg.com/en/docs/install) и [попробовать](https://yarnpkg.com/en/docs/getting-started) его. Вы можете безболезненно [мигрировать](https://yarnpkg.com/lang/en/docs/migrating-from-npm/) с NPM на Yarn, однако нечего не мешает использовать NPM
+> В примерах используется Yarn, поэтому советую [установить](https://yarnpkg.com/en/docs/install) и [попробовать](https://yarnpkg.com/en/docs/getting-started) его. Вы можете безболезненно [мигрировать](https://yarnpkg.com/lang/en/docs/migrating-from-npm/) с NPM на Yarn, однако ничего не мешает использовать NPM
 
 <h2 align="center">Зачем?</h2>
 
