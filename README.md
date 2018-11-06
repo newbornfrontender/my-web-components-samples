@@ -20,12 +20,12 @@
 
 Существует четыре технологии, относящиеся к веб-компонентам:
 
-- Shadow DOM (Теневой DOM)
-- HTML Templates (HTML-шаблоны)
-- Custom Elements (Пользовательские элементы)
-- ES Modules (ES-модули)
+- [Shadow DOM](https://w3c.github.io/webcomponents/spec/shadow/) (Теневой DOM)
+- [HTML Templates](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element/) (HTML-шаблоны)
+- [Custom Elements](https://w3c.github.io/webcomponents/spec/custom/) (Пользовательские элементы)
+- [ES Modules](https://html.spec.whatwg.org/multipage/webappapis.html#integration-with-the-javascript-module-system) (ES-модули)
 
-Ранее были HTML Imports (HTML-импорты), однако вместо них теперь используются ES Modules, по причине отказа поддержки этой технологии в Firefox
+Ранее были [HTML Imports](https://www.w3.org/TR/html-imports/) (HTML-импорты), однако вместо них теперь используются ES Modules, по причине отказа поддержки этой технологии в Firefox
 
 <h2 align="center">Лицензия</h2>
 
