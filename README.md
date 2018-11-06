@@ -1,6 +1,4 @@
-<div>
-  <img width=140 src="/logo/logo.svg">
-</div>
+<img align="center" width="130" alt="Логотип веб-компонентов" src="/logo/logo.svg">
 
 <h1 align="center">Мои примеры веб-компонентов</h1>
 
